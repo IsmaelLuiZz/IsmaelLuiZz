@@ -2,7 +2,7 @@ Olá! Eu sou Ismael Luiz
 💻 Desenvolvedor com foco em Front-end
 ☕ Apaixonado por tecnologia, Café e StarWars
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=aura_icons=true)
+![Ismael GitHub stats](https://github-readme-stats.vercel.app/api?username=IsmaelLuiZz&theme=aura_icons=true)
 
 ## 🚀 Tecnologias & Ferramentas
 
