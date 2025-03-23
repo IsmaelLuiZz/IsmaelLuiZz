@@ -14,3 +14,4 @@ Olá! Eu sou Ismael Luiz
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
